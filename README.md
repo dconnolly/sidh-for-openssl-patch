@@ -1,6 +1,6 @@
 # SIDH for Open SSL
 
-This release contains a patch for OpenSSL 1.0.2g to support the Supersingular Isogeny-based Diffie-Hellman (SIDH) key exchange<sub>1</sub>, using the implementation of Microsoft Research<sub>2</sub>. This scheme provides approximately 128 bits of quantum security and 192 bits of classical security.
+This release contains a patch for OpenSSL 1.0.2g to support the Supersingular Isogeny-based Diffie-Hellman (SIDH) key exchange<sub>1</sub>, using the implementation by Microsoft Research<sub>2</sub>. This scheme provides approximately 128 bits of quantum security and 192 bits of classical security.
 
 ### Details
 The library specifies four ciphersuites:
